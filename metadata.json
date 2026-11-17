@@ -1,0 +1,6 @@
+{
+  "name": "Akshat -- 3D Creator",
+  "description": "Portfolio landing page for Akshat, a 3D Creator driven by crafting striking and unforgettable projects, 3D modeling, rendering, motion design, and branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
